@@ -15,6 +15,7 @@ What you'll find here mostly relates to my work in e-learning, and of late predo
 repos: https://github.com/frumbert?tab=repositories
 linkedin: www.linkedin.com/in/tim-st-clair-au
 website: frumbert.org
+photos: https://www.flickr.com/photos/frumbert/albums
 
 <!--
 **frumbert/frumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
