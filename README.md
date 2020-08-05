@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim. The monikey _frumbert_ has been attached to me in all my internet days. It came about when I needed an account to test out the [then new] Microsoft Mail server on Windows NT 3? 3.5? Who even remembers? And I made it up and it's been with me ever since, through IRC networks, MMORPG's, programming, photography and social sites so numerous I've forgotten them all. I work in the field of **e-learning**.
+I'm Tim. The moniker/nic/tag/avatar _frumbert_ has been attached to me in all my internet days. It came about when I needed an account to test out the [then new] Microsoft Mail server on Windows NT 3? 3.5? Who even remembers? And I made it up and it's been with me ever since, through IRC networks, MMORPG's, programming, photography and social sites so numerous I've forgotten them all. I work in the field of **e-learning**.
 
 > **tinker**
 >
