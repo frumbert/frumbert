@@ -12,10 +12,10 @@ I class myself more as a tinkerer than a programmer even though that has been my
 
 What you'll find here mostly relates to my work in e-learning, and of late predominantly with the [Moodle](https://mooodle.org) platform. This has a rich community of plugins and an even wider community of developers. I don't have a showcase website just at the moment because I've been too busy concentrating on clients who do pay, rather than those that might.
 
-repos: https://github.com/frumbert?tab=repositories
-linkedin: www.linkedin.com/in/tim-st-clair-au
-website: frumbert.org
-photos: https://www.flickr.com/photos/frumbert/albums
+- repos: https://github.com/frumbert?tab=repositories
+- linkedin: www.linkedin.com/in/tim-st-clair-au
+- website: frumbert.org
+- photos: https://www.flickr.com/photos/frumbert/albums
 
 <!--
 **frumbert/frumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
