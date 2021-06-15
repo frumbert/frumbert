@@ -8,6 +8,7 @@ What you'll find here mostly relates to my work in e-learning, and of late predo
 - linkedin: www.linkedin.com/in/tim-st-clair-au
 - website: frumbert.org
 - photos: https://www.flickr.com/photos/frumbert/albums
+- more of my work: https://github.com/Coursesuite
 
 <!--
 **frumbert/frumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
