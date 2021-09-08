@@ -2,7 +2,7 @@
 
 I work in the field of **e-learning**. I would prefer to work in regenerative agriculture.
 
-- [www.frumbert.prg](https://www.frumbert.org/) website (+[webarchive](https://web.archive.org/web/2019*/http://frumbert.org)).
+- [www.frumbert.org](http://www.frumbert.org/) website (+[webarchive](https://web.archive.org/web/2019*/http://frumbert.org)).
 - [stackoverflow](https://stackoverflow.com/users/1238884/frumbert)
 - [photography](https://flickr.com/photos/frumbert)
 - [music](http://modarchive.org/index.php?request=view_artist_modules&query=91662)
