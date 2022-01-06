@@ -1,6 +1,6 @@
 ### I'm Tim 👋
 
-I work in the field of **e-learning**. I would prefer to work in regenerative agriculture.
+I work in the field of **e-learning**. I will be working with plants instead shortly, which are buggy in a different way.
 
 - [www.frumbert.org](http://www.frumbert.org/) website (+[webarchive](https://web.archive.org/web/2019*/http://frumbert.org)).
 - [stackoverflow](https://stackoverflow.com/users/1238884/frumbert)
