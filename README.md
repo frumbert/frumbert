@@ -1,4 +1,4 @@
-### I'm Tim 👋
+### I'm me 👋
 
 I work in the field of **e-learning**. I also work with **plants**, which are buggy in a different way.
 
